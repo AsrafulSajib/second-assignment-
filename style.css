@@ -320,6 +320,7 @@ nav{
     margin: 0 auto;
     gap: 100px;
     overflow: hidden;
+    padding-bottom: 80px;
     
 }
 .featured-card .card-1{
@@ -390,6 +391,29 @@ nav{
 }
 .featured-card .card-3 .p{
     color: #00ff88;
+}
+.host-container{
+    background-color: #1A0B2E;
+}
+.host-container h2{
+    color: #ffffff;
+    font-size: 48px;
+    font-weight: bold;
+    text-align: center;
+    padding-bottom: 30px;
+}
+.host-card{
+    background-color: #351165;
+    width: 71%;
+    margin: 0 auto;
+    border-radius: 40px;
+    display: flex;
+    padding: 20px;
+}
+.host-card h3{
+    color: #ffffff;
+    font-size: 32px;
+    font-weight: bold;
 }
 /* footer section */
 
